@@ -14,3 +14,4 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 
 add merge_comment_test
+add merge_comment
